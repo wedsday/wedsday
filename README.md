@@ -1,6 +1,6 @@
-### Hello everyone 👋
+<h1 align = "center">Hello everyone 👋</h1>
 
-<h3 align = "left" margin = 1px>Ex-Accountant * Ex-42KL Student * Learning to code</h3>
+<h3 align = "center" margin = 1px>Ex-Accountant * Ex-42KL Student * Learning to code</h3>
 
 ***
 
