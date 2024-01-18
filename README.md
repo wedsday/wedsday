@@ -4,12 +4,14 @@
 <h3 align = "left">Learning to code</h3>
 
 <h3 align = "left">I'm currently working on:</h3>
+<p align = "left">
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.geeksforgeeks.org/introduction-to-nosql/)
+</p>
 <!--
 **wedsday/wedsday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
