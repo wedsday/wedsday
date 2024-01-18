@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,NoSQL)]
 <!--
 **wedsday/wedsday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://github.com/wedsday/wedsday/assets/71377019/4e285881-b6b6-4794-85ff-317d8de8641c)
-c cplusplus css3 docker html5 javascript nestjs nginx python react typescript
