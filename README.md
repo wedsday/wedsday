@@ -1,7 +1,10 @@
 
-<h3 align = "left">Ex-Accountant
+Ex-Accountant
+***
 align = "left">Ex-42KL Student
-align = "left">Learning to code</h3>
+***
+align = "left">Learning to code
+***
 
 <h3 align = "left">I'm currently working on:</h3>
 
