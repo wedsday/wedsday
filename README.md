@@ -1,7 +1,7 @@
 
-Ex-Accountant
-Ex-42KL Student
-Learning to code
+<h1 align = "left">Ex-Accountant</h1>
+<h2 align = "left">Ex-42KL Student</h2>
+<h3 align = "left">Learning to code</h3>
 
 I'm currently working on:
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
