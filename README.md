@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-
+[![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/)
-[![My Skills](https://skillicons.dev/icons?i=HTML)](https://www.w3schools.com/html/)
-[![My Skills](https://skillicons.dev/icons?i=CSS)](https://www.w3schools.com/css/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![My Skills](https://skillicons.dev/icons?i=NOSQL)](https://www.geeksforgeeks.org/introduction-to-nosql/)
+[![My Skills](https://skillicons.dev/icons?i=nosql)](https://www.geeksforgeeks.org/introduction-to-nosql/)
 <!--
 **wedsday/wedsday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
