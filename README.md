@@ -1,9 +1,9 @@
 
-<h1 align = "left">Ex-Accountant</h1>
-<h2 align = "left">Ex-42KL Student</h2>
+<h3 align = "left">Ex-Accountant</h3>
+<h3 align = "left">Ex-42KL Student</h3>
 <h3 align = "left">Learning to code</h3>
 
-I'm currently working on:
+<h3 align = "left">I'm currently working on:</h3>
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
