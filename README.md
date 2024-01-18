@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![My Skills](https://skillicons.dev/icons?i=js) (https://www.w3schools.com/js/)
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/)
 <!--
 **wedsday/wedsday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
